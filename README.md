@@ -1,4 +1,4 @@
-# bootKit Pro
+# bootKit Pro Achievements
 
 [![](https://img.shields.io/badge/Made%20by-Nazary%20IT%20Group-blue)](link)
 [![](https://img.shields.io/static/v1?label=Version&message=v1.0.0&color=<COLOR>)](link)
