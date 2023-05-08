@@ -43,7 +43,7 @@ https://github.com/nitgroup/bootkit-Pro/issues
 ### 1.1.1 Released [5/8/2023]
 
 - Fixed Bugs
-- Add New Snippets
+- Added New Snippets
 ---
 
 **Enjoy!**
