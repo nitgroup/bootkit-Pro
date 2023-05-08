@@ -9,7 +9,7 @@
 BootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help You To Boost Your Workflow By Snippet Codes That We already Coded, You Can Also Get The Bootstrap template + FontAwesome with all the CSS and Javascripts Link and it is FREE To Use For Commercial and Personal Purposes
 
 
-# Built By BootKit Pro less then a 1 Minutes
+# Built By BootKit Pro less then a 1 Minute
 
 ![Alt text](https://github.com/nitgroup/bootkit-Pro/blob/main/assets/webdesign-small.png?raw=true)
 
