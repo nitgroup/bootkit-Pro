@@ -6,14 +6,19 @@
 
 # BootKit Pro
 
-bootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help You To Boost Your Workflow By Snippet Codes That We already Coded, You Can Also Get The Bootstrap template + FontAwesome with all the CSS and Javascripts Link and it is FREE To Use For Commercial and Personal Purposes
+BootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help You To Boost Your Workflow By Snippet Codes That We already Coded, You Can Also Get The Bootstrap template + FontAwesome with all the CSS and Javascripts Link and it is FREE To Use For Commercial and Personal Purposes
 
+![Alt text](https://github.com/nitgroup/bootkit-Pro/blob/main/assets/video.gif?raw=true)
 
 # Built By BootKit Pro less then a 1 Minutes
-![Alt text](https://github.com/nitgroup/bootkit-Pro/blob/main/assets/webdesign-small.png?raw=true)
+
+![Alt text](https://github.com/nitgroup/bootkit-Pro/blob/main/assets/webdesign.png?raw=true)
+
 # Features
 
 - New Bootstrap 5 boilerplate by BootKit Pro
+
+- Form Validation Using Javascript (JS)
 
 - Clean and Aproved by Nazary IT Group
 
@@ -25,21 +30,10 @@ bootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help 
 
 - No Hidden Fees 100% Free
 
-## Known Issues
-
-There is No Known Issues at The Moment.
-
 ## Report Issues
 
-Please Contact us for any Issues
-
-## Release Notes
-
-This is Our First Release We Hope You Will Like Our Extension, Release Notes Will Come Here.
-
-### 1.0.0 (5/9/2023)
-
-- Initial release of bootKit Pro
+Your feedback is very important to us! Please help us by submitting issues for bugs.
+https://github.com/nitgroup/bootkit-Pro/issues
 
 ---
 
