@@ -1,10 +1,10 @@
-# bootKit Pro Achievements
+# BootKit Pro Achievements
 
 [![](https://img.shields.io/badge/Made%20by-Nazary%20IT%20Group-blue)]()
 [![](https://img.shields.io/static/v1?label=Version&message=v1.0.0&color=<COLOR>)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# bootKit Pro
+# BootKit Pro
 
 bootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help You To Boost Your Workflow By Snippet Codes That We already Coded, You Can Also Get The Bootstrap template + FontAwesome with all the CSS and Javascripts Link and it is FREE To Use For Commercial and Personal Purposes
 
@@ -34,7 +34,7 @@ Please Contact us for any Issues
 
 This is Our First Release We Hope You Will Like Our Extension, Release Notes Will Come Here.
 
-### 1.0.0 (5/7/2023)
+### 1.0.0 (5/9/2023)
 
 - Initial release of bootKit Pro
 
