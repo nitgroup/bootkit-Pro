@@ -34,6 +34,16 @@ BootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help 
 Your feedback is very important to us! Please help us by submitting issues for bugs.
 https://github.com/nitgroup/bootkit-Pro/issues
 
+
+# Releases 
+### 1.1.0 Released [5/8/2023]
+
+- Initial release of BootKit Pro.
+
+### 1.1.1 Released [5/8/2023]
+
+- Fixed Bugs
+- Add New Snippets
 ---
 
 **Enjoy!**
