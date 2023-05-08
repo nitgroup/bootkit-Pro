@@ -10,7 +10,7 @@ bootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help 
 
 
 # Built By BootKit Pro less then a 1 Minutes
-![Alt text](https://github.com/nitgroup/bootkit-Pro/blob/main/assets/webdesign.png?raw=true)
+![Alt text](https://github.com/nitgroup/bootkit-Pro/blob/main/assets/webdesign-small.png?raw=true)
 # Features
 
 - New Bootstrap 5 boilerplate by BootKit Pro
