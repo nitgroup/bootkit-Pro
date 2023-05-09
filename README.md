@@ -13,6 +13,36 @@ BootKit Pro is a Bootstrap Component and UI Kit Snippet Our Extension Will Help 
 
 ![Alt text](https://github.com/nitgroup/bootkit-Pro/blob/main/assets/webdesign-small.png?raw=true)
 
+# Quick Snippets 
+| Name | Snippets | Description |
+|---|---|---|
+| Add bootstrap 5.3.0 Boilerplate | bootkit-bootstrap-template | This Will Add All JS and CSS Link For Latest Bootstrap 5 and font Awesome  |
+| Add **Only** bootstrap 5.3.0 CSS | bootkit-bootstrap-css | This Will Only Add Bootstrap 5 CSS Link |
+| Add **Only** bootstrap 5.3.0 CDN |bootkit-bootstrap-cdn | This Will Only Add Bootstrap 5 JS Links |
+| bootstrap Primary Cards | bootkit-cards-primary| 
+| bootstrap Primary Navbar | bootkit-navbar-primary | 
+| bootstrap Primary Alerts | bootkit-primary-alert | 
+| bootstrap Secondary Alerts | bootkit-secondary-alert | 
+| bootstrap Success Alerts | bootkit-success-alert | 
+| bootstrap danger Alerts | bootkit-danger-alert | 
+| bootstrap info Alerts | bootkit-info-alert | 
+| bootstrap light Alerts | bootkit-light-alert | 
+| bootstrap Dark Alerts | bootkit-dark-alert | 
+| bootstrap Primary Button | bootkit-primary-btn |
+| bootstrap Modal Button | bootkit-modal-btn |
+| bootstrap Primary Inputs | bootkit-input-primary |
+| bootstrap Inputs Floating Labels | bootkit-input-floating |
+| Bootstrap Hero Section Sass | bootkit-hero-sass |
+| Bootstrap Left aligned Hero | bootkit-hero-left-aligned |
+| Bootstrap Right aligned Hero |  bootkit-hero-right-aligned |
+| Bootstrap Simple Footer | bootkit-simple-footer |
+| Bootstrap Featured Section | bootkit-featured-section |
+| Bootstrap Featured Section V2 | bootkit-featured-section-v2 |
+| Bootstrap Hero Sign-up Form | bootkit-hero-signup
+| Add Form Validation | bootkit-form-validation-js |
+| Bootstrap Primary Form | bootkit-primary-form |
+| Bootstrap Accordion | bootkit-primary-accordion |
+
 # Features
 
 - New Bootstrap 5 boilerplate by BootKit Pro
